@@ -1,0 +1,12 @@
+{
+    "movie_count": 2000,
+    "html_pages": 2014,
+    "region_counts": {
+        "日韩": 363,
+        "国产": 809,
+        "欧美": 758,
+        "其他": 70
+    },
+    "video_sources": 20,
+    "generated_files_are_static": true
+}
